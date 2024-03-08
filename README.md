@@ -1,3 +1,3 @@
 # Feynn Labs - Project T1R
-## EV_Market_Segment_Analysis
+## EV Market Segment Analysis
 Segment Based on Market Share of Electric Cars Companies
